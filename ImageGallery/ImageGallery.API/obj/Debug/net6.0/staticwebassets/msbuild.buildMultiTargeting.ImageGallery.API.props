@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ImageGallery.API.props" />
+</Project>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5gapQlWSII2+hMjFaYJEsgu9RkM7V4UU5gEtG1TwWbGDtNCv44CsW1W2WfzDo/KSyrFDnB2nEvljTBcCSbSOdA==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\SecuringAspNetCore6WithOAuth2AndOIDC\\ImageGallery\\ImageGallery.Model\\ImageGallery.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\divya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\divya\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\divya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

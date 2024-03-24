@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\GitHub\\SecuringAspNetCore6WithOAuth2AndOIDC\\ImageGallery\\ImageGallery.API\\wwwroot\\Images\\3fbe2aea-2257-44f2-b3b1-3d8bacade89c.jpg",
+      "PackagePath": "staticwebassets\\Images\\3fbe2aea-2257-44f2-b3b1-3d8bacade89c.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\SecuringAspNetCore6WithOAuth2AndOIDC\\ImageGallery\\ImageGallery.API\\wwwroot\\Images\\43de8b65-8b19-4b87-ae3c-df97e18bd461.jpg",
+      "PackagePath": "staticwebassets\\Images\\43de8b65-8b19-4b87-ae3c-df97e18bd461.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\SecuringAspNetCore6WithOAuth2AndOIDC\\ImageGallery\\ImageGallery.API\\wwwroot\\Images\\46194927-ccda-432f-bc95-4820318c08c7.JPG",
+      "PackagePath": "staticwebassets\\Images\\46194927-ccda-432f-bc95-4820318c08c7.JPG"
+    },
+    {
+      "Id": "C:\\GitHub\\SecuringAspNetCore6WithOAuth2AndOIDC\\ImageGallery\\ImageGallery.API\\wwwroot\\Images\\4cdd494c-e6e1-4af1-9e54-24a8e80ea2b4.JPG",
+      "PackagePath": "staticwebassets\\Images\\4cdd494c-e6e1-4af1-9e54-24a8e80ea2b4.JPG"
+    },
+    {
+      "Id": "C:\\GitHub\\SecuringAspNetCore6WithOAuth2AndOIDC\\ImageGallery\\ImageGallery.API\\wwwroot\\Images\\5c20ca95-bb00-4ef1-8b85-c4b11e66eb54.JPG",
+      "PackagePath": "staticwebassets\\Images\\5c20ca95-bb00-4ef1-8b85-c4b11e66eb54.JPG"
+    },
+    {
+      "Id": "C:\\GitHub\\SecuringAspNetCore6WithOAuth2AndOIDC\\ImageGallery\\ImageGallery.API\\wwwroot\\Images\\6b33c074-65cf-4f2b-913a-1b2d4deb7050.JPG",
+      "PackagePath": "staticwebassets\\Images\\6b33c074-65cf-4f2b-913a-1b2d4deb7050.JPG"
+    },
+    {
+      "Id": "C:\\GitHub\\SecuringAspNetCore6WithOAuth2AndOIDC\\ImageGallery\\ImageGallery.API\\wwwroot\\Images\\7e80a4c8-0a8a-4593-a16f-2e257294a1f9.JPG",
+      "PackagePath": "staticwebassets\\Images\\7e80a4c8-0a8a-4593-a16f-2e257294a1f9.JPG"
+    },
+    {
+      "Id": "C:\\GitHub\\SecuringAspNetCore6WithOAuth2AndOIDC\\ImageGallery\\ImageGallery.API\\wwwroot\\Images\\8d351bbb-f760-4b56-9d4e-e8d61619bf70.JPG",
+      "PackagePath": "staticwebassets\\Images\\8d351bbb-f760-4b56-9d4e-e8d61619bf70.JPG"
+    },
+    {
+      "Id": "C:\\GitHub\\SecuringAspNetCore6WithOAuth2AndOIDC\\ImageGallery\\ImageGallery.API\\wwwroot\\Images\\94878996-e040-44ef-a668-0bf17d966062.JPG",
+      "PackagePath": "staticwebassets\\Images\\94878996-e040-44ef-a668-0bf17d966062.JPG"
+    },
+    {
+      "Id": "C:\\GitHub\\SecuringAspNetCore6WithOAuth2AndOIDC\\ImageGallery\\ImageGallery.API\\wwwroot\\Images\\b2894002-0b7c-4f05-896a-856283012c87.jpg",
+      "PackagePath": "staticwebassets\\Images\\b2894002-0b7c-4f05-896a-856283012c87.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\SecuringAspNetCore6WithOAuth2AndOIDC\\ImageGallery\\ImageGallery.API\\wwwroot\\Images\\cc412f08-2a7b-4225-b659-07fdb168302d.JPG",
+      "PackagePath": "staticwebassets\\Images\\cc412f08-2a7b-4225-b659-07fdb168302d.JPG"
+    },
+    {
+      "Id": "C:\\GitHub\\SecuringAspNetCore6WithOAuth2AndOIDC\\ImageGallery\\ImageGallery.API\\wwwroot\\Images\\cd139111-c82e-4bc8-9f7d-43a1059bfe73.jpg",
+      "PackagePath": "staticwebassets\\Images\\cd139111-c82e-4bc8-9f7d-43a1059bfe73.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\SecuringAspNetCore6WithOAuth2AndOIDC\\ImageGallery\\ImageGallery.API\\wwwroot\\Images\\dc3f39bf-d1da-465d-9ea4-935902c2e3d2.jpg",
+      "PackagePath": "staticwebassets\\Images\\dc3f39bf-d1da-465d-9ea4-935902c2e3d2.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\SecuringAspNetCore6WithOAuth2AndOIDC\\ImageGallery\\ImageGallery.API\\wwwroot\\Images\\e0e32179-109c-4a8a-bf91-3d65ff83ca29.jpg",
+      "PackagePath": "staticwebassets\\Images\\e0e32179-109c-4a8a-bf91-3d65ff83ca29.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\SecuringAspNetCore6WithOAuth2AndOIDC\\ImageGallery\\ImageGallery.API\\wwwroot\\Images\\fdfe7329-e05c-41fb-a7c7-4f3226d28c49.jpg",
+      "PackagePath": "staticwebassets\\Images\\fdfe7329-e05c-41fb-a7c7-4f3226d28c49.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ImageGallery.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ImageGallery.API.props",
+      "PackagePath": "build\\ImageGallery.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ImageGallery.API.props",
+      "PackagePath": "buildMultiTargeting\\ImageGallery.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ImageGallery.API.props",
+      "PackagePath": "buildTransitive\\ImageGallery.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

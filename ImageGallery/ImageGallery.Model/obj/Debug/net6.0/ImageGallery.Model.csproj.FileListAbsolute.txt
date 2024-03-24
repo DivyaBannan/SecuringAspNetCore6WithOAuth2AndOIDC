@@ -1,0 +1,11 @@
+C:\GitHub\SecuringAspNetCore6WithOAuth2AndOIDC\ImageGallery\ImageGallery.Model\bin\Debug\net6.0\ImageGallery.Model.deps.json
+C:\GitHub\SecuringAspNetCore6WithOAuth2AndOIDC\ImageGallery\ImageGallery.Model\bin\Debug\net6.0\ImageGallery.Model.dll
+C:\GitHub\SecuringAspNetCore6WithOAuth2AndOIDC\ImageGallery\ImageGallery.Model\bin\Debug\net6.0\ImageGallery.Model.pdb
+C:\GitHub\SecuringAspNetCore6WithOAuth2AndOIDC\ImageGallery\ImageGallery.Model\obj\Debug\net6.0\ImageGallery.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SecuringAspNetCore6WithOAuth2AndOIDC\ImageGallery\ImageGallery.Model\obj\Debug\net6.0\ImageGallery.Model.AssemblyInfoInputs.cache
+C:\GitHub\SecuringAspNetCore6WithOAuth2AndOIDC\ImageGallery\ImageGallery.Model\obj\Debug\net6.0\ImageGallery.Model.AssemblyInfo.cs
+C:\GitHub\SecuringAspNetCore6WithOAuth2AndOIDC\ImageGallery\ImageGallery.Model\obj\Debug\net6.0\ImageGallery.Model.csproj.CoreCompileInputs.cache
+C:\GitHub\SecuringAspNetCore6WithOAuth2AndOIDC\ImageGallery\ImageGallery.Model\obj\Debug\net6.0\ImageGallery.Model.dll
+C:\GitHub\SecuringAspNetCore6WithOAuth2AndOIDC\ImageGallery\ImageGallery.Model\obj\Debug\net6.0\refint\ImageGallery.Model.dll
+C:\GitHub\SecuringAspNetCore6WithOAuth2AndOIDC\ImageGallery\ImageGallery.Model\obj\Debug\net6.0\ImageGallery.Model.pdb
+C:\GitHub\SecuringAspNetCore6WithOAuth2AndOIDC\ImageGallery\ImageGallery.Model\obj\Debug\net6.0\ref\ImageGallery.Model.dll
